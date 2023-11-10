@@ -1,1 +1,4 @@
-alert("123");
+function getGadgetName()
+{
+    alert("Tested");
+}
