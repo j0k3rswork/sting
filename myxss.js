@@ -1,4 +1,3 @@
-function getGadgetName()
-{
-    alert("Tested");
+window.onload=function(){
+    alert('Hello World!');
 }
